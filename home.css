@@ -1,0 +1,70 @@
+.page-header h1 {
+  font-size: 48px;
+}
+
+#portrait { 
+  background: url(http://assets.lucasrichter.id.au/img/portrait-300.jpg) no-repeat 0 0; 
+  border-radius: 10px;
+  height: 301px;
+  margin-bottom: 24px;
+}
+
+#blurb { 
+  background-color: #F4F4F4;
+  border-radius: 10px;
+  padding: 10px;
+  height: 284px;
+}
+
+#blurb p {
+  font-size: 18px; 
+  line-height: 22px;
+}
+
+#links { 
+  list-style: none; 
+  font-size: 16px;
+}
+
+#links li {
+  float: left;
+}
+
+#links li a {
+  display: block;
+  width: 75px;
+  height: 75px;
+  margin: 10px 10px 24px 10px;
+}
+
+#links li a:hover {
+  text-decoration: none;
+}
+
+#twitter a {
+  background: url(http://assets.lucasrichter.id.au/img/twitter-icon.png) 0 0 no-repeat;
+}
+
+#linkedin a {
+  background: url(http://assets.lucasrichter.id.au/img/linkedin-icon-75.png) 0 0 no-repeat;
+}
+
+#github a {
+  background: url(http://assets.lucasrichter.id.au/img/github-logo-75.png) 0 0 no-repeat;
+}
+
+#stackoverflow a {
+  background: url(http://assets.lucasrichter.id.au/img/stackoverflow-icon.jpeg) 0 0 no-repeat;
+}
+
+#blog a {
+  background: url(http://assets.lucasrichter.id.au/img/feed-icon-75.png) 0 0 no-repeat;
+}
+
+#linkblog a {
+  background: url(http://assets.lucasrichter.id.au/img/linkblog-icon.png) 0 0 no-repeat;
+}
+
+#footer p {
+  margin-left: 20px;
+}
